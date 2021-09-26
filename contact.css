@@ -33,3 +33,38 @@ input[type=submit]:hover {
   font-family: 'Urbanist' ;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background: url('https://ih0.redbubble.net/image.1747990449.8262/flat,1000x1000,075,f.jpg');
+  background-position: 0 1000px; 
+  font-family: 'Urbanist' ;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 3rem;
+  margin-top: 4rem;
+  text-align: bottom;
+}
+
+.btn {
+  display: inline-block;
+  padding: 1.7rem 2.5rem;
+  font-size: 1rem;
+  text-decoration: none;
+  color:#dac17c;
+  border-radius: 10px;
+  transition: background 0.5s;
+  background: #cb4c4e
+}
+
+
+
